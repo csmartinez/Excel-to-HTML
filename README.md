@@ -20,7 +20,8 @@ Example output:
  2. Convert the values or titles to text (Table > Convert > Convert Table to Text > (Seperate by paragraph)
  3. Find and replace paragraph marks with , for program ids and % for titles
  4. Remove any extra characters at end of document
- 5. After doing this for boths values and titles, paste the two strings into arguement of print statement and press F5 after saving file
+ 5. After doing this for both values and titles, paste the two strings into the argument of print statement, save file and press F5
+ 6. Verify first and last entries match with excel list
 
 ## Requirements
 
