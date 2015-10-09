@@ -4,7 +4,7 @@
 
 * [Carli Martinez](https://github.com/csmartinez)
 
-A basic one-script python project to convert excel data to HTML option values. The issue that is solved with this project is individually copying and pasting option values and titles from excel into HTML format, a long and mundane task when you have over 100 entries to convert. This script and it's instructions require Microsoft Word 2011 for Mac.
+A basic one-script python project to convert excel data to HTML option values. The issue that is solved with this project is individually copying and pasting option values and titles from excel into an HTML drop down menu, a long and mundane task when you have over 100 entries to convert. This script and it's instructions require Microsoft Word 2011 for Mac.
 
 Example input:
 "1,2,3","one,two,three"
