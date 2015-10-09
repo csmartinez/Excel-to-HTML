@@ -10,9 +10,9 @@ Example input:
 "1,2,3","one,two,three"
 
 Example output:
-<option value="1">one</option>
-<option value="2">two</option>
-<option value="3">three</option>
+"<option value='1'>one</option>
+<option value='2'>two</option>
+<option value='3'>three</option>"
 
 ## Instructions
 
