@@ -6,8 +6,7 @@
 # 5. Paste as two strings into arguement of print statement below and press F5
 
 # number of IDs must have same length as number of titles to ensure they match up
-# check last values with FPI to make sure output is correct
-
+# check last values from excel list to make sure output is correct
 
 def excel_to_html(programs, titles):
     print("")
