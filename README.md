@@ -50,6 +50,9 @@ Example output:
 - save file
 - hit F5
 
+## Known Issues
+
+- Loop adds an unwanted closing optgroup tag at the beginning of output.
 
 ## Contribute
 
