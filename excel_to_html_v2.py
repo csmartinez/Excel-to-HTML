@@ -11,7 +11,7 @@
 def excel_to_html(programs, titles,campuses):
     print("")
     campuses = campuses.split("%")
-    programs = programs.split(",")
+    programs = programs.split("%")
     titles = titles.split("%")
     campus_list = []
 
